@@ -6,9 +6,19 @@
     <description>Recent content on Oled Displays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 15:42:28 -0700</lastBuildDate>
     
 	<atom:link href="http://oledpart.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Samsungs8p</title>
+      <link>http://oledpart.com/samsungs8p/</link>
+      <pubDate>Sun, 17 Sep 2017 15:42:28 -0700</pubDate>
+      
+      <guid>http://oledpart.com/samsungs8p/</guid>
+      <description>THis is a big set of test writing. I need to read the docs before bigger moves are made.</description>
+    </item>
     
   </channel>
 </rss>
