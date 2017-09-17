@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oled Displays</title>
-    <link>http://oledscreen.com/</link>
+    <link>http://oledpart.com/</link>
     <description>Recent content on Oled Displays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://oledscreen.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://oledpart.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
