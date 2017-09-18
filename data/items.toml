@@ -26,7 +26,7 @@ image = "images/samsung/s7edge.png"
 thumb = "images/samsung/s7edge.png"
 alt = "Samsung S7 Edge"
 description = "Oled Panels for the S7 Edge made by Samsung"
-url = "http://amzn.to/2wmqhSl"
+url = "s7e.oledpart.com"
 [[items]]
 title = "Samsung S6 Edge +"
 image = "images/samsung/s6edge+.png"
