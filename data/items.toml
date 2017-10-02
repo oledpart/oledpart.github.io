@@ -4,7 +4,7 @@ image = "images/samsung/s8plus.png"
 thumb = "images/samsung/s8plus.png"
 alt = "Samsung S8 +"
 description = "Oled Panels for the S8 + made by Samsung"
-url = "http://amzn.to/2xqWB5B"
+url = "http://amzn.to/2xT7Svj"
 # Amazon Link
 [[items]]
 title = "Samsung S8"
@@ -26,7 +26,7 @@ image = "images/samsung/s7edge.png"
 thumb = "images/samsung/s7edge.png"
 alt = "Samsung S7 Edge"
 description = "Oled Panels for the S7 Edge made by Samsung"
-url = "s7e.oledpart.com"
+url = "http://amzn.to/2xSL1Qv"
 [[items]]
 title = "Samsung S6 Edge +"
 image = "images/samsung/s6edge+.png"
