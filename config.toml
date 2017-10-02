@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://oledpart.com/"
+baseurl = "http://oledpart.github.io/"
 languageCode = "en-us"
 title = "Oled parts"
 theme = "hugrid"
